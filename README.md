@@ -1,3 +1,2 @@
 # Hello-Git
-Modificado para ver otros datos
-modificado nuevamente!!!
+Modificado para ver otros datos.
